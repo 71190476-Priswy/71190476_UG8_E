@@ -1,0 +1,20 @@
+Psuadecode fibonacci :
+input n
+if i=0 atau i=1 then
+cetak “fibonacci(i)=i”
+else
+while i>1 dan i=n do
+fibonacci(i)=fibonacci(i-1)+fibonacci(i-2)
+cetak fibonacci(i)
+i=i+1
+end
+Berikut merupakan cara menghitung bilangan fibonacci :
+Bilangan pertama: 0
+Bilangan kedua: 1
+Bilangan ketiga: 0 + 1 = 1
+Bilangan keempat: 1 + 1 = 2
+Bilangan kelima: 1 + 2 = 3
+Bilangan keenam: 2 + 3 = 5
+Bilangan ketujuh: 3 + 5 = 8
+Bilangan kedelapan: 5 + 8 = 13
+Pada contoh diatas dapat kita lihat bahwa cara menghitung bilangan fibonacci itu dilakukan dengan menjumlahkan dengan angka Sebelumnya.
