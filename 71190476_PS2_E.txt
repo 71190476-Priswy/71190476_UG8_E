@@ -1,0 +1,6 @@
+Dari soal di atas, yang terisi penuh terlebih dahulu adalah gelas nomor 2.
+karena air dari gelas 4 akan mengalir pertama kali ke gelas 2, hingga gelas itu Penuh karena pada gelas nomor 2 pipa salurannya di block atau tertutup. 
+Setelah gelas no 2 penuh maka air akan mengalir ke gelas no 6. 
+namun air yang masuk pada gelas no 6 akan mengalir ke gelas no 7 sehingga prosesnya akan berlangsung lama, 
+berbeda dengan gelas no 2 yang mendapatkan air dari gelas no 4 yang dimana dapat kita lihat bahwa di gelas tersebut tidak memiliki pembuangan ke gelas lainnya,
+karena pada saluran pipanya ditutup sehingga air akan cepat penuh.
